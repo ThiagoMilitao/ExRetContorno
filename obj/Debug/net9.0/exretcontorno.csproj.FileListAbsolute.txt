@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\exretcontorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\exretcontorno.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\exretcontorno.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\exretcontorno.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\exretcontorno.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\bin\Debug\net9.0\exretcontorno.exe
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\bin\Debug\net9.0\exretcontorno.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\bin\Debug\net9.0\exretcontorno.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\bin\Debug\net9.0\exretcontorno.dll
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\bin\Debug\net9.0\exretcontorno.pdb
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\exretcontorno.dll
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\refint\exretcontorno.dll
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\exretcontorno.pdb
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\exretcontorno.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista5\exretcontorno\obj\Debug\net9.0\ref\exretcontorno.dll
